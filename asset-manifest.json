@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lidemy-Gomoku-app/static/css/main.366cd604.css",
+    "main.js": "/Lidemy-Gomoku-app/static/js/main.33aab06f.js",
+    "index.html": "/Lidemy-Gomoku-app/index.html",
+    "main.366cd604.css.map": "/Lidemy-Gomoku-app/static/css/main.366cd604.css.map",
+    "main.33aab06f.js.map": "/Lidemy-Gomoku-app/static/js/main.33aab06f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.366cd604.css",
+    "static/js/main.33aab06f.js"
+  ]
+}
